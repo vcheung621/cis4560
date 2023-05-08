@@ -1,6 +1,6 @@
 # cis4560
 
-Please download or open this file (lab-tutorial-painpills version 3.pdf) for the below Lab Tutorial.
+Please download or open this file (**lab-tutorial-painpills version 3.pdf**) for the below Lab Tutorial.
 
 Pain Pills Data Analysis in Hive:
 
